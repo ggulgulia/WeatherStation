@@ -2,3 +2,4 @@
 *.swo
 *.swap
 *.pdf
+node_modules
