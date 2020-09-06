@@ -1,0 +1,3 @@
+[submodule "submodule/WeatherStationClient"]
+	path = submodule/WeatherStationClient
+	url = https://github.com/ggulgulia/WeatherStationClient.git
